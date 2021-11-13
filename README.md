@@ -1,4 +1,6 @@
 # Maximum-product-subarray
+
+//Time complexity : O(n)
 To get a subarray with maximum product
 import java.util.*;
 class Main{
